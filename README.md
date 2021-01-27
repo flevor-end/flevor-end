@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi, I'm Fabian  👋🧑🏻‍💻
+```js
+const flevor-end = {
+  pronouns: "he" | "hin",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, flutter, Node, Styled-Components, Jest, Docker],
+}
+```
 
+You can find me 🌍:
+- [Blog]
+- [Instagram](https://www.instagram.com/flavisdevs/)
+- [Twitter](https://twitter.com/fabianpedraza9)
 <!--
 **flevor-end/flevor-end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
