@@ -2,8 +2,8 @@
 ```js
 const flevor-end = {
   pronouns: "he" | "hin",
-  code: [Javascript, HTML, CSS],
-  tools: [ReactJs, Flutter, NodeJs, Styled-Components],
+  code: [Javascript, HTML, CSS,ReactJs, Flutter, NodeJs,],
+  tools: [ VSC, figma],
 }
 ```
 
